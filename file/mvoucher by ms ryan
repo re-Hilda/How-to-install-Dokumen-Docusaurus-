@@ -1,0 +1,14 @@
+voucher : open
+	owned
+	claimed
+	
+	claimd: sa : 1 user bisa banyak branc
+	
+		merchant app : generik merchant, bisa bikin claimd app sndiri punya db sndiri punya brnach sama usernya juga. 
+
+ultravoucher : selfclaim.. gk ada usernya.. UV nya nanti ngirimin webhook, ngirim request klo vucher udh di claim sama si cust		
+
+
+kalo ada case pengen nyari vouvher di claim di mana 
+
+

@@ -1,0 +1,160 @@
+
+DOCUMENTASI CUSTOMER API
+
+---------------------- CUSTOMER -------------------------
+
+1. Login
+	Id = 00ulzie0bGQEd27h64x6	00ulzie0bGQEd27h64x6 00ulzie0bGQEd27h64x6
+	no = 6285695467553
+
+2. Update Profile 
+	query = updateProfileSubmit
+	
+3. Get Balance : untuk mendapatkan info 
+	query = Me
+	balance = 9901200
+	
+4. get Point :
+	query  = getPoint
+	initialValue: 10000000
+        currentValue: 9900200
+        partner id = 1595382818993
+        namePartner  = INTEG001
+        
+5. getVucher : voucher yg dimiliki customer
+	 expiredFrom : "2020-07-22T00:00:00.764Z"
+	 
+6. product catalog : bisa untuk mencari produk apa saja yg dapat diredeem, ini digunakan untuk meng set cust nya cp agak hasil produknya hanya menampilkan produk cp saja
+	name : cari partner
+	categoryIds : ["5f165bf8e9fe130011830840"]
+      	merchantIds : ["5f150f24e89f9d001143413c"]
+      	
+      	namun untuk mencari secara menyeluruh dapat mgkosongkan ketiga astribut tersebut
+      	
+7.  order
+
+8. Transaksi histori : melihat transaksi history dari kegiatan ear dan redeem
+	id = 00ulzie0bGQEd27h64x6
+	
+	kalo mau nyari proses yg lebih spesifik bisa dikosongin dulu issuers nya nanti muncul smua, trus ambil issuerId nya
+	issuerId = 5f17ca3159ee210011727b23
+	
+9. notifikasi 
+	first : 1
+	
+10. Redeem 
+	* prosess redeem
+		 productId:"5f165fefe9fe130011830841"
+		 
+	* hasil redeem
+		id: "5f17a01d3b053b0011857264"
+
+11. gemifications
+	masih kosong karena belum dipake.. baru tersedia API nya.. tp belum dijalanin 
+	
+12. banner 
+	
+	
+
+	
+	
+	
+----------------- ASTRAPAY -----------------
+
+1. Login
+
+2. earnPoint
+
+3. Rules
+
+4. partner profile
+
+
+
+sebgagaii customer
+
+
+
+-------------- Cari Parkir As customer -------------
+
+1. Login
+	id : 00um4qlllbjwura1h4x6
+	no : 6283805881060
+
+2. transaksi histori : mengambil transaksi his dari customer
+	id : 00ulzie0bGQEd27h64x6
+	
+3. getMerchant 
+	untuk menentukan dari porduct/vocuher yg ditampilkan di produknya si cust dari cp
+	
+	
+	
+	
+	
+
+
+
+--------------- Customer cari parkir as customer ------------------
+1. Login
+
+2. transaksi history
+
+3. produk
+
+4. voucher
+
+5. redeem
+
+6. 
+
+
+question
+1. customernya lg masuk ke case atau gak?
+2. cust as cp cuma bisa 
+3. astraPay sbg partner dimasukin gak? 
+4. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	

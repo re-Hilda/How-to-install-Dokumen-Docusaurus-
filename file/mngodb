@@ -1,0 +1,47 @@
+5f06ea64a2ba77001777110e
+00ujmwfl8MUbdzrUX4x6
+
+sso: search phone number : {"user.id" : ""}
+
+transaksi/log: { _id: ObjectId("5f06ea64a2ba77001777110e") } 
+
+
+liat status trnsaksi{
+ "_id": {
+  "$oid": "5f0d2d424c6ce800115fb89f"
+ }
+
+00ujmwfl8MUbdzrUX4x6
+
+
+http://localhost:8081/browseCollection
+untuk mengakses db.. 
+log :  untuk melihat transaksi
+transaksi : membutuhkan id dari log. dan mghasilkan id product, userId. id point, status transaksi, processAttempt adalah waktu percobaan, smisal 2.. brarti dalam 2 menit mencoba bbrapa kali misal udh gk bisa brarti statusnya gagal.. 
+5f06e9254c6ce800115fb882
+
+
+devtools => impersonation => no cust =>  bisa dilihat di service/gateway/api/controler/custimer/grabpgl/schema/type
+
+
+
+untuk membuka mongodb :
+tunnel_loyalty_uat-k8s-uat  : untuk mngakses db di uat
+tunnel_loyalty_sit-k8s-dev : untuk mengakses db punya dev
+tunnel_loyalty_sit-k8s-sit:  untuk mengakses db dari sit
+
+
+
+kalo mau bikin transaksi order: 
+log	 : buat nyari id. (id ini dipake buat nyari no tlpn)
+sso: search phone number : {"user.id" : ""}. dipake di impersonet 
+transction : id usernya dipake buat bikin transaksi dan nyari status transaksi 
+
+
+{"user.id" : ""}
+
+
+
+
+
+http resques : token & refrashe token

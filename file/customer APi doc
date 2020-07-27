@@ -1,0 +1,85 @@
+
+
+- customer in android
+- customer in ios
+- customer in web
+- custmer be astraPay
+- cp sbg partner, bisa juga cust
+- 
+- partner (
+
+# meredeem point
+# menukan point with product
+
+
+-------------------- kegiatan di mobile ---------------
+
+homepage 
+1. me (point) ☑️
+2. main banner ☑️
+3. notification ☑️
+4. featureproduct 
+5. gettokennotif ☑️
+
+
+------------------------- Kegiatan --------------------
+
+untuk melakukan ini, minimal, harap berikan dokumen berikut:
+ *1 Pelanggan register, login, update profile {me} ✅
+ *2 Pelanggan get balance (balance = jumlah point) and profile {me} ✅
+ *3 pelanggan mendapatkan poin ✅ & voucher miliknya ✅
+ *4 Pelanggan melihat melalui products catalog, and some filter/sort  ✅
+ *5 Pelanggan melihat orders✅, transaction histories✅,
+ *6 Pelanggan melihat notifications ✅, dan membacanya
+ *7 Pelanggan dapat redeem product ✅
+ *8 Pelanggan dapat get info tentang gamifications ✅ masih kosong karena belum dipake.. baru tersedia API nya.. tp belum dijalanin 
+ *9 Pelanggan dapat melihat banners ✅ or others campaign ✅
+ 
+ cp itu kalo custom gettran dia search by merchant
+jadi kalo buka astrakau trus liat cp dia otomatis transaksi nya itu cp.. 
+ 
+ ------------------------ Pelaku -----------------------
+
+pengguna cp sbg customer : 
+cust mlakukan transaksi di cp, nah si cust dapat point dari astrKu yg nantinya bisa di redeem di astrPay
+namun di astraPay/astraku hanya bisa liat produk dari cp aja
+- mau bikin akun pake nomor cp sbg customer
+
+
+
+cp sbg partner :  ❌️
+ngedaftarin cust nya biar dapet point. trus req ke astraKu / AstraPay untuk ngefilter pencarian / voucher nya cuma produk dari cp
+liat ditransaksi histori dulu, yg historynya dari cp, cust nya diarahin ngeredeem di product cp pake getMerchant
+- earning point ke customernya -  
+- partner rule
+- profile
+
+
+
+astraPay :  
+tempat cust untuk ngeredeem point dan milih voucher apa aja kaya isinya berbagai macam voucher itu ada di astraPay
+- earning point ke customer
+- liat di transaksi 
+- 
+
+redeem : 
+transaksi historu : 
+product : 
+point :
+balance : 
+gemification ada yg ada misinya
+notifikasi : 
+
+cust mobile dan mobile :  ✅
+ 
+------------------------ AstraKu ---------------------
+
+Penampung dari berbagai anak prusahaan astrakU, astraKu tempat untuk me earnpoint dan meredeeem point dari cust yang sudah melakukan transaksi di partner. 
+
+
+------------ 
+
+
+
+
+
